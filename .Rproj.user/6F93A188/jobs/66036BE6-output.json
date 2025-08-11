@@ -7,6 +7,6 @@
 [1,"\u001B[1m\u001B[34m\r[3/4] index.qmd\u001B[39m\u001B[22m\n"]
 [1,"\u001B[31mFATAL (/Users/zacharygooch/Desktop/RStudio.app/Contents/Resources/app/quarto/share/filters/main.lua:3985) An error occurred:\nError resolving include-after- unable to open file <script src=\"scripts/open-links-newtab.js\"></script>\n\n\u001B[39m"]
 [1,"\u001B[1m\u001B[34m\r[4/4] cv.qmd\u001B[39m\u001B[22m\n"]
-[1,"\u001B[31mFATAL (/Users/zacharygooch/Desktop/RStudio.app/Contents/Resources/app/quarto/share/filters/main.lua:3985) An error occurred:\nError resolving include-after- unable to open file <script src=\"scripts/open-links-newtab.js\"></script>\n\n\u001B[39m\n"]
-[1,"\u001B[32mWatching files for changes\u001B[39m\n\u001B[32mBrowse at \u001B[39m\u001B[4m\u001B[32mhttp://localhost:7227/\u001B[39m\u001B[24m\n"]
+[1,"\u001B[31mFATAL (/Users/zacharygooch/Desktop/RStudio.app/Contents/Resources/app/quarto/share/filters/main.lua:3985) An error occurred:\nError resolving include-after- unable to open file <script src=\"scripts/open-links-newtab.js\"></script>\n\n\u001B[39m"]
+[1,"\n\u001B[32mWatching files for changes\u001B[39m\n\u001B[32mBrowse at \u001B[39m\u001B[4m\u001B[32mhttp://localhost:6330/\u001B[39m\u001B[24m\n"]
 [1,"\u001B[32mGET: /\u001B[39m\n"]

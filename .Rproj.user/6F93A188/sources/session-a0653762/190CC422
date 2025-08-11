@@ -3,7 +3,7 @@
     "path": "~/Downloads/quarto-rstudio-starter/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2398232582",
+    "hash": "74880048",
     "contents": "",
     "dirty": false,
     "created": 1754859044499.0,
@@ -12,7 +12,7 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "6,4",
+        "cursorPosition": "17,15",
         "scrollLine": "0",
         "rmdVisualMode": "false",
         "rmdVisualCollapsedChunks": "",
@@ -21,11 +21,11 @@
         "docOutlineVisible": "1"
     },
     "folds": "",
-    "lastKnownWriteTime": 1754872654,
+    "lastKnownWriteTime": 1754877386,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1754872654705,
+    "last_content_update": 1754877386600,
     "read_only": false,
     "read_only_alternatives": []
 }
