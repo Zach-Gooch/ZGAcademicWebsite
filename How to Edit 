@@ -1,8 +1,11 @@
 Notes on editting: 
 
+
+quarto render
 git add -A 
 git commit -m "Update site" 
 git push 
 
 
 
+I think either is

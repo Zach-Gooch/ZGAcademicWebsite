@@ -14,4 +14,4 @@ listing:
   date-format: "YYYY-MM-DD"
 ---
 
-Welcome to my blog. Posts cover research, methods, and teaching notes.
+Posts cover research, methods, and teaching notes.
