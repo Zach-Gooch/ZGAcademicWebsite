@@ -1,5 +1,17 @@
 ---
-title: "blog"
-format: html
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default         # or "grid"
+  categories: true      # auto category pages
+  feed:
+    title: "Zachary Gooch — Blog"
+    description: "Posts on economics, teaching, and research notes."
+    items: 30
+  # Optional card fields if present in posts
+  fields: [image, title, description, author, date, categories]
+  date-format: "YYYY-MM-DD"
 ---
 
+Welcome to my blog. Posts cover research, methods, and teaching notes.

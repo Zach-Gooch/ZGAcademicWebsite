@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://zacharygooch.com/cv.html</loc>
-    <lastmod>2025-08-10T21:33:00.980Z</lastmod>
+    <loc>https://zacharygooch.com/blog.html</loc>
+    <lastmod>2025-08-11T23:30:58.984Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zacharygooch.com/index.html</loc>
+    <lastmod>2025-08-11T02:36:23.249Z</lastmod>
   </url>
   <url>
     <loc>https://zacharygooch.com/research.html</loc>
@@ -10,10 +14,14 @@
   </url>
   <url>
     <loc>https://zacharygooch.com/teaching.html</loc>
-    <lastmod>2025-08-10T23:26:52.494Z</lastmod>
+    <lastmod>2025-08-11T02:34:31.301Z</lastmod>
   </url>
   <url>
-    <loc>https://zacharygooch.com/index.html</loc>
-    <lastmod>2025-08-11T01:56:26.597Z</lastmod>
+    <loc>https://zacharygooch.com/posts/Lifetime Tax Incidence /index.html</loc>
+    <lastmod>2025-08-11T23:27:57.742Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zacharygooch.com/cv.html</loc>
+    <lastmod>2025-08-10T21:33:00.980Z</lastmod>
   </url>
 </urlset>

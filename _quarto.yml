@@ -35,16 +35,16 @@ website:
         href: teaching.qmd
       - text: "CV"
         href: cv.qmd
-      # If/when you add a blog listing, you can add:
-      # - text: "Blog"
-      #   href: blog.qmd
-      # - icon: rss
-      #   href: blog.xml
+      - text: "Blog"
+        href: blog.qmd
 
       # Icons (rightmost)
       - icon: github
         aria-label: GitHub
         href: https://github.com/Zach-Gooch
+      - icon: rss
+        aria-label: RSS
+        href: blog.xml
       - icon: linkedin
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/zachary-r-gooch
@@ -63,8 +63,6 @@ format:
     toc: false
     toc-depth: 2
     anchor-sections: true
-    include-after-body: |
-     - scripts/open-links-newtab.js
 
 execute:
   freeze: auto

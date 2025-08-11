@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Zachary Gooch — Blog</title>
+<link>https://zacharygooch.com/blog.html</link>
+<atom:link href="https://zacharygooch.com/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Posts on economics, teaching, and research notes.</description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Sun, 10 Aug 2025 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>Optimal free-riding over your lifetime</title>
+  <dc:creator>Zachary Gooch</dc:creator>
+  <link>https://zacharygooch.com/posts/Lifetime Tax Incidence /</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>blah blah blah blah</p>
+
+
+
+ ]]></description>
+  <category>Public</category>
+  <category>Taxation</category>
+  <guid>https://zacharygooch.com/posts/Lifetime Tax Incidence /</guid>
+  <pubDate>Sun, 10 Aug 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://zacharygooch.com/posts/Lifetime Tax Incidence /featured.png" medium="image" type="image/png" height="96" width="144"/>
+</item>
+</channel>
+</rss>
