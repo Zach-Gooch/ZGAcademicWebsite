@@ -1,0 +1,8 @@
+---
+title: "CV"
+---
+
+The latest version of my CV is available here:
+
+- [Download CV (PDF)](assets/cv/Zachary_Gooch_Academic_CV.pdf){target="_blank"}
+

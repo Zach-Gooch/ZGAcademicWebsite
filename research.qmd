@@ -1,0 +1,13 @@
+---
+title: "Research"
+---
+
+## Working Papers
+- **Paper Title A** (with Coauthor). Abstract: 2–3 sentences on contribution, identification, and main result.  
+  [PDF](assets/papers/paper-a.pdf){target="_blank"} · [Slides](assets/slides/paper-a-slides.pdf){target="_blank"} · [Code/Replication](https://github.com/yourrepo){target="_blank"}
+
+## Works in Progress
+- **Project B:** One-sentence elevator pitch. Methods and expected data.
+
+## Data & Code
+- Public replication packages and teaching datasets. If hosted on GitHub/OSF/Zenodo, link here.

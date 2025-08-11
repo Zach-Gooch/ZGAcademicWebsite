@@ -1,0 +1,7 @@
+document.addEventListener("DOMContentLoaded", function () {
+  // Select only links inside the About card
+  document.querySelectorAll('.about-links a').forEach(function(link) {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  });
+});
