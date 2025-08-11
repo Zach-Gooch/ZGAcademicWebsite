@@ -3,24 +3,24 @@
     "path": "~/Downloads/quarto-rstudio-starter/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "1533085451",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1754858869586.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "60,17",
-        "scrollLine": "24"
+        "cursorPosition": "52,34",
+        "scrollLine": "15"
     },
     "folds": "",
-    "lastKnownWriteTime": 1754870754,
+    "lastKnownWriteTime": 1754871165,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1754870754885,
+    "last_content_update": 1754871297780,
     "read_only": false,
     "read_only_alternatives": []
 }

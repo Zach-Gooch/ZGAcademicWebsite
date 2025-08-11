@@ -4,6 +4,8 @@ image: assets/headshot/IMG_1567.jpg
 about:
   template: trestles
   links: 
+    - text: CV
+      url: "assets/cv/Zachary_Gooch_Academic_CV.pdf"
     - text: LinkedIn
       url: "https://linkedin.com/in/zachary-r-gooch"
     - text: GitHub
@@ -11,8 +13,7 @@ about:
       url: "https://github.com/Zach-Gooch"
     - text: Email
       url: "mailto:zg23a@fsu.edu"
-    - text: CV
-      url: "assets/cv/Zachary_Gooch_Academic_CV.pdf"
+
 comments: false
 ---
 
