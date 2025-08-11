@@ -64,7 +64,7 @@ format:
     toc-depth: 2
     anchor-sections: true
     include-after-body: |
-      <script src="scripts/open-links-newtab.js"></script>
+     - scripts/open-links-newtab.js
 
 execute:
   freeze: auto
