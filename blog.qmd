@@ -11,7 +11,7 @@ listing:
     items: 30
   # Optional card fields if present in posts
   fields: [image, title, description, author, date, categories]
-  date-format: "YYYY-MM-DD"
+  date-format: "YYYY-MM-DD" 
 ---
 
 Posts cover research, methods, and teaching notes.
