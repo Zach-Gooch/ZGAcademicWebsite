@@ -5,7 +5,7 @@ title: "Research"
 ## Working Papers
 
 ### Performance Pay at Scale: Evidence from Texas’s Statewide Teacher Incentive Program  
-[PDF](assets/papers/TIA_Paper.pdf){target="_blank"}
+[PDF](assets/TIA_Paper.pdf){target="_blank"}
 
 <details>
   <summary><strong>Abstract</strong></summary>
