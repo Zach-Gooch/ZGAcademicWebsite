@@ -3,11 +3,15 @@ title: "Research"
 ---
 
 ## Working Papers
-- **Paper Title A** (with Coauthor). Abstract: 2–3 sentences on contribution, identification, and main result.  
-  [PDF](assets/papers/paper-a.pdf){target="_blank"} · [Slides](assets/slides/paper-a-slides.pdf){target="_blank"} · [Code/Replication](https://github.com/yourrepo){target="_blank"}
 
-## Works in Progress
-- **Project B:** One-sentence elevator pitch. Methods and expected data.
+### Performance Pay at Scale: Evidence from Texas’s Statewide Teacher Incentive Program  
+[PDF](assets/papers/TIA_Paper.pdf){target="_blank"}
 
-## Data & Code
-- Public replication packages and teaching datasets. If hosted on GitHub/OSF/Zenodo, link here.
+<details>
+  <summary><strong>Abstract</strong></summary>
+
+This paper evaluates the impact of the Teacher Incentive Allotment (TIA), a statewide performance-based pay program introduced in Texas in 2019 to improve the recruitment and retention of effective teachers, particularly in rural and high-poverty schools. Using administrative microdata from the Texas Education Agency (2014–2024) linking personnel, designation, and campus funding records, I examine how teacher retention and mobility respond to the phased roll-out of TIA. The empirical strategy utilizes a dynamic difference-in-differences framework following Callaway and Sant'Anna (2021), exploiting variation in the timing of district entry into the program to identify short-run effects.
+
+I find that the TIA generated modest but meaningful improvements in staffing stability, increasing district and campus retention rates by roughly one percentage point, driven primarily by reductions in exits from the public school system. A gravity-model analysis of inter-district flows similarly shows no detectable evidence that treated districts attracted teachers away from non-treated districts. These results suggest that the TIA improves retention among incumbent teachers but does not substantially alter mobility patterns across Texas school districts.
+
+</details>
