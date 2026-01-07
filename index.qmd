@@ -34,6 +34,6 @@ GitHub: <https://github.com/Zach-Gooch>
 
 ## Latest
 
-**Working paper:** *Performance Pay at Scale: Evidence from Texas’s Statewide Teacher Incentive Program*.  
+**Working paper:** *Performance Pay at Scale: Evidence from Texas’s Statewide Teacher Incentive Program*. 
 [PDF](assets/TIA_Paper.pdf){target="_blank"}
 
