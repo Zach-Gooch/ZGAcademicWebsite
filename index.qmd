@@ -1,6 +1,6 @@
 ---
 title: "Zachary Gooch"
-site-url: https:://www.zacharygooch.com
+site-url: https://www.zacharygooch.com
 image: assets/headshot/IMG_1567.jpg
 about:
   template: trestles
@@ -37,3 +37,4 @@ GitHub: <https://github.com/Zach-Gooch>
 **Working paper:** *Performance Pay at Scale: Evidence from Texas’s Statewide Teacher Incentive Program*. 
 [PDF](assets/TIA_Paper.pdf){target="_blank"}
 
+:::

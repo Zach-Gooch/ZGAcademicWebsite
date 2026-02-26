@@ -1,11 +1,13 @@
 project:
   type: website
   output-dir: docs
-  # Optional: include extra static files at site root (uncomment if you add them)
-  # resources:
-  #   - keybase.txt
-  #   - resume.pdf
-  #   - cv.pdf
+  resources:
+    - CNAME
+  render:
+    - index.qmd
+    - research.qmd
+    - teaching.qmd
+    - cv.qmd
 
 website:
   title: "Zachary Gooch"
@@ -35,16 +37,11 @@ website:
         href: teaching.qmd
       - text: "CV"
         href: cv.qmd
-      - text: "Blog"
-        href: blog.qmd
 
       # Icons (rightmost)
       - icon: github
         aria-label: GitHub
         href: https://github.com/Zach-Gooch
-      - icon: rss
-        aria-label: RSS
-        href: blog.xml
       - icon: linkedin
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/zachary-r-gooch
@@ -53,12 +50,12 @@ website:
         href: mailto:zg23a@fsu.edu
 
   page-footer:
-    left: "© 2025 Zachary Gooch"
+    left: "© 2026 Zachary Gooch"
     right: "Built with Quarto"
 
 format:
   html:
-    theme: [pulse, _variables.scss]  
+    theme: pulse
     css: styles.css
     toc: false
     toc-depth: 2

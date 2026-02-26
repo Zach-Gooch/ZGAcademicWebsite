@@ -1,31 +1,10 @@
 [
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "Posts cover research, methods, and teaching notes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMerit-Based Scholarships\n\n\n\n\n\n\neducation\n\n\nlabor\n\n\n\n\n\n\n\n\n\n2025-08-11\n\n\n\n\n\n\n\n\n\n\n\n\nEarly Childhood Education\n\n\n\n\n\n\neducation\n\n\nlabor\n\n\n\n\n\n\n\n\n\n2025-08-11\n\n\n\n\n\n\n\n\n\n\n\n\nOptimal free-riding over your lifetime\n\n\n\n\n\n\nPublic\n\n\nTaxation\n\n\n\nAttempting to create a theoretical way to minimize costs of public goods and maximize benefits from public goods over one’s lifetime\n\n\n\n\n\n2025-08-10\n\n\nZachary Gooch\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Zachary Gooch",
-    "section": "",
-    "text": "Third-year Economics PhD student at Florida State University.\nI am a Baugh doctoral fellow with special interests in the field of public economics, labor economics, and the economics of education.\nEmail: zg23a@fsu.edu\nLinkedin: linkedin.com/in/zachary-r-gooch\nGitHub: https://github.com/Zach-Gooch\n\n\nWorking paper: Performance Pay at Scale: Evidence from Texas’s Statewide Teacher Incentive Program. PDF"
-  },
-  {
-    "objectID": "index.html#latest",
-    "href": "index.html#latest",
-    "title": "Zachary Gooch",
-    "section": "",
-    "text": "Working paper: Performance Pay at Scale: Evidence from Texas’s Statewide Teacher Incentive Program. PDF"
-  },
-  {
-    "objectID": "posts/Lifetime Tax Incidence /index.html",
-    "href": "posts/Lifetime Tax Incidence /index.html",
-    "title": "Optimal free-riding over your lifetime",
-    "section": "",
-    "text": "blah blah blah blah"
+    "text": "The latest version of my CV is available here:\n\nDownload CV (PDF)"
   },
   {
     "objectID": "research.html",
@@ -42,18 +21,18 @@
     "text": "PDF\n\n\nAbstract\n\nThis paper evaluates the impact of the Teacher Incentive Allotment (TIA), a statewide performance-based pay program introduced in Texas in 2019 to improve the recruitment and retention of effective teachers, particularly in rural and high-poverty schools. Using administrative microdata from the Texas Education Agency (2014–2024) linking personnel, designation, and campus funding records, I examine how teacher retention and mobility respond to the phased roll-out of TIA. The empirical strategy utilizes a dynamic difference-in-differences framework following Callaway and Sant’Anna (2021), exploiting variation in the timing of district entry into the program to identify short-run effects.\nI find that the TIA generated modest but meaningful improvements in staffing stability, increasing district and campus retention rates by roughly one percentage point, driven primarily by reductions in exits from the public school system. A gravity-model analysis of inter-district flows similarly shows no detectable evidence that treated districts attracted teachers away from non-treated districts. These results suggest that the TIA improves retention among incumbent teachers but does not substantially alter mobility patterns across Texas school districts."
   },
   {
-    "objectID": "research.html#works-in-progress",
-    "href": "research.html#works-in-progress",
-    "title": "Research",
-    "section": "Works in Progress",
-    "text": "Works in Progress\n\nProject B: One-sentence elevator pitch. Methods and expected data."
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zachary Gooch",
+    "section": "",
+    "text": "Third-year Economics PhD student at Florida State University.\nI am a Baugh doctoral fellow with special interests in the field of public economics, labor economics, and the economics of education.\nEmail: zg23a@fsu.edu\nLinkedin: linkedin.com/in/zachary-r-gooch\nGitHub: https://github.com/Zach-Gooch\n\n\nWorking paper: Performance Pay at Scale: Evidence from Texas’s Statewide Teacher Incentive Program. PDF"
   },
   {
-    "objectID": "research.html#data-code",
-    "href": "research.html#data-code",
-    "title": "Research",
-    "section": "Data & Code",
-    "text": "Data & Code\n\nPublic replication packages and teaching datasets. If hosted on GitHub/OSF/Zenodo, link here."
+    "objectID": "index.html#latest",
+    "href": "index.html#latest",
+    "title": "Zachary Gooch",
+    "section": "",
+    "text": "Working paper: Performance Pay at Scale: Evidence from Texas’s Statewide Teacher Incentive Program. PDF"
   },
   {
     "objectID": "teaching.html",
@@ -75,12 +54,5 @@
     "title": "Zachary Gooch",
     "section": "Teaching Philosophy",
     "text": "Teaching Philosophy\nWhen I began teaching, I knew most of my students would be non-economics majors in large sections. My goal was to design a course that combined the core economic theory essential to any principles class with enough relevant, real-world applications for every student to find value in it. I want students to leave my class understanding that economics is not just abstract theory, but a framework for interpreting everyday decisions and events.\nEffective communication between teacher and students is central to that mission. I actively invite feedback throughout the semester and make changes when I see opportunities to improve learning. For example, when students told me they learned better from handwritten explanations on the board than from slides, I adapted, switching to the board in class while still posting slides online as a reference.\nI believe good teaching means being responsive to the needs of your students and flexible enough to step outside your comfort zone. By adapting to how students learn best, I aim to make economics both accessible and meaningful to all learners.\n\nSelected Student Comments\n\n\n\n“Professor Gooch’s instructional methods have been incredibly effective and impactful for my learning. His clarity, organization, and ability to break down complex concepts into digestible parts made the material much more approachable. For example, the way he structured lectures with real-world examples and interactive discussions kept me engaged and helped me retain information far better than in most courses. His responsiveness to questions, both in and out of class, also created a supportive learning environment where I felt comfortable participating and pushing myself intellectually”\n\n\n\n\n“WOW! He somehow managed to keep a theatre major engaged in an economics course, and a content-heavy one at that. Hands down the best introduction to college classes. Engaging classes, fair grading, effort into our learning, and constantly offering help where it’s needed. My favorite class this semester!”\n\n\n\n\n“Professor Gooch is a great teacher. He is approachable, clear, and really knows how to explain economics in a way that makes sense. You can tell he cares about students actually learning and not just memorizing information. I’ve learned a lot in this class, and I feel way more confident about understanding the economy than I did at the beginning of the semester”\n\n\n\n\n“Professor Gooch has made an impact on my academic journey, and I’m truly grateful for the effort he puts into teaching. His passion for the subject and commitment to student success are evident in every class session. I hope more students have the opportunity to learn from him in the future”\n\n\n\n\n“I mean he is amazing”"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "The latest version of my CV is available here:\n\nDownload CV (PDF)"
   }
 ]

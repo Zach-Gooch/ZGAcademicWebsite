@@ -1,7 +1,0 @@
----
-title: "Early Childhood Education"
-date: 2025-08-11
-categories: [education, labor]
-format: html
----
-
