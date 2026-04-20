@@ -12,8 +12,12 @@ body {
   padding-top: 1.2rem; 
   padding-bottom: 1.2rem; 
 }
-img[alt="headshot"] { 
-  border-radius: 9999px; 
+img[alt="headshot"] {
+  border-radius: 9999px;
+}
+
+.quarto-about-trestles {
+  padding-top: 3.5rem;
 }
 .card, .callout { 
   border-radius: 14px; 
