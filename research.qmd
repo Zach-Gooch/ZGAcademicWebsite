@@ -15,3 +15,25 @@ This paper evaluates the impact of the Teacher Incentive Allotment (TIA), a stat
 I find that the TIA generated modest but meaningful improvements in staffing stability, increasing district and campus retention rates by roughly one percentage point, driven primarily by reductions in exits from the public school system. A gravity-model analysis of inter-district flows similarly shows no detectable evidence that treated districts attracted teachers away from non-treated districts. These results suggest that the TIA improves retention among incumbent teachers but does not substantially alter mobility patterns across Texas school districts.
 
 </details>
+
+## Works in Progress
+
+### Retrenchment at the Blackboard: How Economic Crises Reshape the Teacher Labor Market  
+**Michael Darisse and Zachary Gooch**
+
+<details>
+  <summary><strong>Project Description</strong></summary>
+
+This project examines how economic crises affect teacher labor markets using a newly constructed archival panel of teachers in Iowa, Arizona, and Nevada during the Great Depression. By combining historical educational directories, university yearbooks, and Census records, we study how financial distress altered teacher retention, mobility, and labor force participation. Exploiting variation in local school funding constraints prior to the Great Depression, the project investigates how economic downturns reshape the supply and composition of the teacher workforce.
+
+</details>
+
+### Public Presence and Crime: Evidence from NYC  
+**Colin Adams, Zachary Gooch, and Sam Herrin**
+
+<details>
+  <summary><strong>Project Description</strong></summary>
+
+This paper estimates the causal effect of public presence on crime using heat alerts issued through New York City's Notify NYC system as an instrument for outdoor activity. Because alerts are triggered by forecasted rather than realized weather conditions, forecast errors generate quasi-random variation in public presence across otherwise similar days. Preliminary results suggest that increased public presence raises crime, particularly drug offenses and felonies, highlighting the importance of victim availability and documenting an unintended public safety benefit of weather alert systems.
+
+</details>
