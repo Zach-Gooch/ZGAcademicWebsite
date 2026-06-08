@@ -1,4 +1,4 @@
-Notes on editting: 
+git clone https://github.com/Zach-Gooch/ZGAcademicWebsite.git"Notes on editting: 
 
 
 quarto render

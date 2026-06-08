@@ -12,12 +12,8 @@ body {
   padding-top: 1.2rem; 
   padding-bottom: 1.2rem; 
 }
-img[alt="headshot"] {
-  border-radius: 9999px;
-}
-
-.quarto-about-trestles {
-  padding-top: 3.5rem;
+img[alt="headshot"] { 
+  border-radius: 9999px; 
 }
 .card, .callout { 
   border-radius: 14px; 
@@ -53,4 +49,25 @@ a:hover,
 a:focus {
   color: #064420; /* darker on hover */
   text-decoration: underline; /* underline on hover for accessibility */
+}
+
+.research-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+  background: #fff;
+}
+
+.research-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.15rem;
+}
+
+.research-card p {
+  margin-bottom: 0.75rem;
+}
+
+.research-card details {
+  margin-top: 0.75rem;
 }

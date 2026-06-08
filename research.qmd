@@ -2,10 +2,17 @@
 title: "Research"
 ---
 
-## Working Papers
+## Research
 
-### Performance Pay at Scale: Evidence from Texas’s Statewide Teacher Incentive Program  
-[PDF](assets/TIA_Paper.pdf){target="_blank"}
+::: {.research-card}
+
+### Performance Pay at Scale: Evidence from Texas's Statewide Teacher Incentive Program
+
+<p class="project-summary">
+Evaluates the effects of Texas's statewide teacher performance-pay system on teacher retention, mobility, and staffing outcomes.
+</p>
+
+<a class="paper-button" href="assets/TIA_Paper.pdf" target="_blank">PDF</a>
 
 <details>
   <summary><strong>Abstract</strong></summary>
@@ -16,10 +23,20 @@ I find that the TIA generated modest but meaningful improvements in staffing sta
 
 </details>
 
-## Works in Progress
+:::
 
-### Retrenchment at the Blackboard: How Economic Crises Reshape the Teacher Labor Market  
-**Michael Darisse and Zachary Gooch**
+
+::: {.research-card}
+
+### Retrenchment at the Blackboard: How Economic Crises Reshape the Teacher Labor Market
+
+<span class="coauthor-inline">
+with <a href="https://michaeldarisse.github.io/" target="_blank">Michael Darisse</a>
+</span>
+
+<p class="project-summary">
+Examines how economic crises reshape teacher labor markets using newly digitized archival teacher records from the Great Depression.
+</p>
 
 <details>
   <summary><strong>Project Description</strong></summary>
@@ -28,8 +45,21 @@ This project examines how economic crises affect teacher labor markets using a n
 
 </details>
 
-### Public Presence and Crime: Evidence from NYC  
-**Colin Adams, Zachary Gooch, and Sam Herrin**
+:::
+
+
+::: {.research-card}
+
+### Public Presence and Crime: Evidence from NYC
+
+<span class="coauthor-inline">
+with <a href="https://colinpadams.com/" target="_blank">Colin Adams</a> and
+<a href="https://samherrin.net/" target="_blank">Samuel Herrin</a>
+</span>
+
+<p class="project-summary">
+Uses forecast-error variation in NYC heat alerts to estimate the causal effect of public presence on crime.
+</p>
 
 <details>
   <summary><strong>Project Description</strong></summary>
@@ -37,3 +67,5 @@ This project examines how economic crises affect teacher labor markets using a n
 This paper estimates the causal effect of public presence on crime using heat alerts issued through New York City's Notify NYC system as an instrument for outdoor activity. Because alerts are triggered by forecasted rather than realized weather conditions, forecast errors generate quasi-random variation in public presence across otherwise similar days. Preliminary results suggest that increased public presence raises crime, particularly drug offenses and felonies, highlighting the importance of victim availability and documenting an unintended public safety benefit of weather alert systems.
 
 </details>
+
+:::
