@@ -1,0 +1,96 @@
+
+*---------------------------------*
+*          GARCH Model Fit        *
+*---------------------------------*
+
+Conditional Variance Dynamics 	
+-----------------------------------
+GARCH Model	: sGARCH(1,1)
+Mean Model	: ARFIMA(0,0,0)
+Distribution	: std 
+
+Optimal Parameters
+------------------------------------
+        Estimate  Std. Error  t value Pr(>|t|)
+mu      0.000745    0.000316   2.3580 0.018375
+omega   0.000019    0.000008   2.3512 0.018713
+alpha1  0.137208    0.043292   3.1694 0.001528
+beta1   0.774994    0.066437  11.6651 0.000000
+shape   3.714923    0.470892   7.8891 0.000000
+
+Robust Standard Errors:
+        Estimate  Std. Error  t value Pr(>|t|)
+mu      0.000745    0.000303   2.4571 0.014008
+omega   0.000019    0.000010   1.9110 0.055999
+alpha1  0.137208    0.049156   2.7913 0.005250
+beta1   0.774994    0.081689   9.4871 0.000000
+shape   3.714923    0.405582   9.1595 0.000000
+
+LogLikelihood : 3039.016 
+
+Information Criteria
+------------------------------------
+                    
+Akaike       -6.0439
+Bayes        -6.0194
+Shibata      -6.0439
+Hannan-Quinn -6.0346
+
+Weighted Ljung-Box Test on Standardized Residuals
+------------------------------------
+                        statistic p-value
+Lag[1]                  0.0001245  0.9911
+Lag[2*(p+q)+(p+q)-1][2] 1.3265029  0.4034
+Lag[4*(p+q)+(p+q)-1][5] 2.4013978  0.5271
+d.o.f=0
+H0 : No serial correlation
+
+Weighted Ljung-Box Test on Standardized Squared Residuals
+------------------------------------
+                        statistic p-value
+Lag[1]                     0.7834  0.3761
+Lag[2*(p+q)+(p+q)-1][5]    1.7943  0.6678
+Lag[4*(p+q)+(p+q)-1][9]    2.9838  0.7617
+d.o.f=2
+
+Weighted ARCH LM Tests
+------------------------------------
+            Statistic Shape Scale P-Value
+ARCH Lag[3]    0.3758 0.500 2.000  0.5398
+ARCH Lag[5]    1.9229 1.440 1.667  0.4885
+ARCH Lag[7]    2.3662 2.315 1.543  0.6401
+
+Nyblom stability test
+------------------------------------
+Joint Statistic:  0.8852
+Individual Statistics:              
+mu     0.06735
+omega  0.20787
+alpha1 0.14923
+beta1  0.23887
+shape  0.33619
+
+Asymptotic Critical Values (10% 5% 1%)
+Joint Statistic:     	 1.28 1.47 1.88
+Individual Statistic:	 0.35 0.47 0.75
+
+Sign Bias Test
+------------------------------------
+                   t-value   prob sig
+Sign Bias           0.9414 0.3467    
+Negative Sign Bias  1.5441 0.1229    
+Positive Sign Bias  0.8571 0.3916    
+Joint Effect        3.2395 0.3562    
+
+
+Adjusted Pearson Goodness-of-Fit Test:
+------------------------------------
+  group statistic p-value(g-1)
+1    20     7.952       0.9871
+2    30    14.446       0.9889
+3    40    34.725       0.6652
+4    50    42.414       0.7355
+
+
+Elapsed time : 0.05106282 
+

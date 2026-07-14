@@ -21,7 +21,7 @@ comments: false
 ::: column-page
 # Bio
 
-Third-year Economics PhD student at Florida State University. 
+Fourth-year Economics PhD student at Florida State University. 
 
 I am a Baugh doctoral fellow with special interests in the field of public economics, labor economics, and the economics of education.
 

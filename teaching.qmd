@@ -25,14 +25,6 @@ body-classes: teach-cols
 
 
 
-## Teaching Philosophy
-When I began teaching, I knew most of my students would be non-economics majors in large sections. My goal was to design a course that combined the core economic theory essential to any principles class with enough relevant, real-world applications for every student to find value in it. I want students to leave my class understanding that economics is not just abstract theory, but a framework for interpreting everyday decisions and events.
-
-Effective communication between teacher and students is central to that mission. I actively invite feedback throughout the semester and make changes when I see opportunities to improve learning. For example, when students told me they learned better from handwritten explanations on the board than from slides, I adapted, switching to the board in class while still posting slides online as a reference.
-
-I believe good teaching means being responsive to the needs of your students and flexible enough to step outside your comfort zone. By adapting to how students learn best, I aim to make economics both accessible and meaningful to all learners.
-
-
 ### Selected Student Comments
 
 ::: {.tp-comments}

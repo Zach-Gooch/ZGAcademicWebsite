@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-## Research
+## Working Papers
 
 ::: {.research-card}
 
@@ -25,6 +25,8 @@ I find that the TIA generated modest but meaningful improvements in staffing sta
 
 :::
 
+
+## Works in Progress
 
 ::: {.research-card}
 
@@ -67,5 +69,32 @@ Uses forecast-error variation in NYC heat alerts to estimate the causal effect o
 This paper estimates the causal effect of public presence on crime using heat alerts issued through New York City's Notify NYC system as an instrument for outdoor activity. Because alerts are triggered by forecasted rather than realized weather conditions, forecast errors generate quasi-random variation in public presence across otherwise similar days. Preliminary results suggest that increased public presence raises crime, particularly drug offenses and felonies, highlighting the importance of victim availability and documenting an unintended public safety benefit of weather alert systems.
 
 </details>
+
+:::
+
+
+::: {.research-card}
+
+### Examining the Long-Run Effects of Voluntary Prekindergarten
+
+<span class="coauthor-inline">
+with <a href="https://lukeprodgers.com/" target="_blank">Luke P. Rodgers</a>
+</span>
+
+<p class="project-summary">
+Project measuring the long-run impacts of voluntary pre-K using RDC data.
+</p>
+
+:::
+
+
+::: {.research-card}
+
+### Regulating Evidence: How the 1962 Efficacy Requirement Reshaped Pharmaceutical Knowledge Production and Scientific Careers
+
+<span class="coauthor-inline">
+with <a href="https://shawnkantor.wixsite.com/shawnkantor" target="_blank">Shawn Kantor</a> and
+<a href="https://www.alexwhalley.info/" target="_blank">Alexander Whalley</a>
+</span>
 
 :::

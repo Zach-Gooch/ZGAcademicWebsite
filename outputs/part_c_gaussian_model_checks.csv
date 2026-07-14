@@ -1,0 +1,5 @@
+"test","statistic","p_value"
+"Ljung-Box on standardized residuals (lag 10)",4.2799538758179,0.933835292736046
+"Ljung-Box on standardized residuals (lag 20)",11.4963293297042,0.932322414951971
+"Ljung-Box on squared standardized residuals (lag 10)",4.10198589479109,0.942628941381681
+"Ljung-Box on squared standardized residuals (lag 20)",7.78762682541863,0.993182119394804
