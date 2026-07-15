@@ -86,3 +86,20 @@ Project measuring the long-run impacts of voluntary pre-K using RDC data.
 </p>
 
 :::
+
+
+
+::: {.research-card}                                                                                        
+                                                                                                                   
+### Regulating Evidence: How the 1962 Efficacy Requirement Reshaped Pharmaceutical Knowledge Production and Scientific Careers 
+
+<span class="coauthor-inline"> 
+with <a href="https://shawnkantor.wixsite.com/shawnkantor" target="_blank">Shawn Kantor</a> and
+<a href="https://www.alexwhalley.info/" target="_blank">Alexander Whalley</a>     
+</span>                                                                                                     
+                                                                                                                   
+
+::: 
+
+
+
