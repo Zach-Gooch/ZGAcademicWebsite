@@ -8,12 +8,9 @@ body-classes: teach-cols
 
 ## Courses Taught & Evaluations
 
-**Principles of Macroeconomics** (FSU, Summer 2025)  
- - Section size: 44 students  
- - Emphasis on combining core macroeconomic theory with real-world applications to make concepts 
-   relevant for all students   
- - Instruction centered on board-based lectures, in-class problem solving, and regular discussion of current 
-   events.
+
+**Principles of Macroeconomics** (FSU, Summer 2025)
+ - Section size: 44 students
 
 | Metric | Value |
 |---|---|
@@ -21,6 +18,17 @@ body-classes: teach-cols
 | Instructor rating | **4.91** |
 | Course content rating | **4.70** |
 <sub>Ratings are on a 1–5 scale.</sub>
+
+**Intermediate Macroeconomics** (FSU, Summer 2026)
+ - Section size: 18 students
+
+| Metric | Value |
+|---|---|
+| Survey response rate | **83.3%** |
+| Instructor rating | **4.93** |
+| Course content rating | **4.85** |
+<sub>Ratings are on a 1–5 scale.</sub>
+
 
 
 
