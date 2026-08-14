@@ -12,8 +12,6 @@ title: "Research"
 Evaluates the effects of Texas's statewide teacher performance-pay system on teacher retention, mobility, and staffing outcomes.
 </p>
 
-<a class="paper-button" href="assets/TIA_Paper.pdf" target="_blank">PDF</a>
-
 <details>
   <summary><strong>Abstract</strong></summary>
 
