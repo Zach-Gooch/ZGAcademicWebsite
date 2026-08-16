@@ -13,6 +13,7 @@ website:
   title: "Zachary Gooch"
   site-url: https://zacharygooch.com
   description: "Economics PhD student — research, teaching, and notes"
+  google-analytics: "G-1EE82FKESX"
 
   open-graph:
     locale: en_US
