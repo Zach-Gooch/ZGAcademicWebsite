@@ -50,6 +50,27 @@ a:focus {
   color: #064420; /* darker on hover */
   text-decoration: underline; /* underline on hover for accessibility */
 }
+/* Honors list (home page) */
+
+.honors ul,
+ul.honors {
+  list-style: none;
+  padding-left: 0;
+}
+
+.honors li {
+  border-left: 3px solid #782f40;
+  padding: 0.35rem 0 0.35rem 0.85rem;
+  margin-bottom: 0.6rem;
+  line-height: 1.45;
+}
+
+.honors li span {
+  display: block;
+  color: #666;
+  font-size: 0.9rem;
+}
+
 /* Research Page */
 
 .research-card {

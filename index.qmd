@@ -9,9 +9,6 @@ about:
       url: "assets/cv/Zachary_Gooch_Academic_CV.pdf"
     - text: LinkedIn
       url: "https://linkedin.com/in/zachary-r-gooch"
-    - text: GitHub
-      icon: github
-      url: "https://github.com/Zach-Gooch"
     - text: Email
       url: "mailto:zg23a@fsu.edu"
 
@@ -21,16 +18,24 @@ comments: false
 ::: column-page
 # Bio
 
-Fourth-year Economics PhD student at Florida State University. 
+Fourth-year Economics PhD student at Florida State University.
 
-I am a Baugh doctoral fellow with special interests in the field of public economics, labor economics, and the economics of education.
+My research is in public economics, labor economics, and the economics of education. Current projects
+examine how teacher incentive pay affects student outcomes at scale, the long-run effects of voluntary
+prekindergarten, and how economic crises reshape the teacher labor market. I also work as a research
+assistant to Shawn Kantor, studying the effects of pharmaceutical regulation
+on scientific careers and knowledge production.
 
+## Honors & Awards
 
-
+::: {.honors}
+- **Richard and Ellen Sandor Award for Excellence in Economics** <span>Spring 2026</span>
+- **Research Grant**, Institute for Governance and Civics, FSU (\$5,000) <span>Spring 2026</span>
+- **Charles E. Rockwood Award for Excellence in Teaching** <span>Summer 2025</span>
+:::
 
 Email: [zg23a\@fsu.edu](mailto:zg23a@fsu.edu){.email}\
-Linkedin: [linkedin.com/in/zachary-r-gooch](https://www.linkedin.com/in/zachary-r-gooch)\
-GitHub: <https://github.com/Zach-Gooch>
+Linkedin: [linkedin.com/in/zachary-r-gooch](https://www.linkedin.com/in/zachary-r-gooch)
 
 
 :::
