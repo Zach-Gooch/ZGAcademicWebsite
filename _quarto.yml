@@ -40,9 +40,6 @@ website:
         href: cv.qmd
 
       # Icons (rightmost)
-      - icon: github
-        aria-label: GitHub
-        href: https://github.com/Zach-Gooch
       - icon: linkedin
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/zachary-r-gooch
