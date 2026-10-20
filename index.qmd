@@ -21,7 +21,7 @@ comments: false
 Fourth-year Economics PhD student at Florida State University.
 
 My research is in public economics, labor economics, and the economics of education. Current projects
-examine how teacher incentive pay affects student outcomes at scale, the long-run effects of voluntary
+examine how teacher incentive pay affects retention and mobility, the long-run effects of voluntary
 prekindergarten, and how economic crises reshape the teacher labor market. I also work as a research
 assistant to Shawn Kantor, studying the effects of pharmaceutical regulation
 on scientific careers and knowledge production.
